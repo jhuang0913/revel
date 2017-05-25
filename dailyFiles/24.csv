@@ -1,0 +1,108 @@
+SALES BY CLASS,Raw Qty,Raw Sales,Voids/Returns Qty,Voids/Returns,Comps Qty,Comps,Gross Sales,Item Disc,Order Disc,Net Totals
+Alcohol,10,52.00,0,0.00,0,0.00,52.00,6.75,0.00,45.25
+Beverage,110,291.41,0,0.00,0,0.00,291.41,35.58,2.29,253.54
+Extra Items,3,43.03,0,0.00,0,0.00,43.03,0.00,0.00,43.03
+Food,336,3226.65,5,57.40,0,0.00,3169.25,316.86,12.45,2839.94
+Retail,5,52.75,0,0.00,0,0.00,52.75,0.00,0.00,52.75
+Unknown Class,11,24.45,0,0.00,0,0.00,24.45,10.05,0.00,14.40
+Total,475,3690.29,5,57.40,0,0.00,3632.89,369.24,14.74,3248.91
+ 
+GROSS PRODUCT SALES,Amount
+Taxed Gross Sales,3592.86
+Untaxed Gross Sales,40.03
+Taxed Service Fee,30.39
+Untaxed Service Fee,0.00
+CRV Charges (included to  Sales),0.00
+Total,3663.28
+ 
+DISCOUNTS,Amount
+Item Discounts,369.24
+Order Discounts,14.74
+Total,383.98
+ 
+NET SALES,Amount
+Taxed Net Sales,3239.27
+Untaxed Net Sales,40.03
+Total Sales,3279.30
+ 
+TAXES,Sales,Total
+Sales Tax (7.000%),3230.52,226.19
+Untaxed (0.000%),40.03,0.00
+Sales Tax on Service Fee (7.000%),30.40,2.12
+Tax Rounding Variance ,,-0.02
+Other Surcharge ,0.00,0.00
+Total ,,228.29
+ 
+LIABILITIES,Amount
+Gift Cards,0.00
+Store Credit,0.00
+Deposits,0.00
+Total,0.00
+ 
+PAYMENTS AGAINST HOUSE ACCOUNT,Amount
+Total,0.00
+ 
+TIPS,Auto Grat.,Standard,Adjustments,Total
+Cash,0.00,0.00,,0.00
+Credit,79.44,259.95,0.00,339.39
+SCAD,0.00,0.00,,0.00
+Custom Payment,0.00,0.00,,0.00
+Total,,,,339.39
+ 
+ADJUSTMENTS,Amount
+Rounding Deltas,0.00
+ 
+Net To Account For,Amount
+Net To Account For,3507.59
+ 
+PAYMENTS,Qty,Sales,Deposits,House Accounts,Refunds,Tips,Total
+Cash,32.0,551.37,0.00,0.00,0.00,0.00,551.37
+Credit,143.0,2946.95,0.00,0.00,56.14,339.39,2890.81
+American Express,8,226.30,0.00,0.00,0.00,29.97,226.30
+Discover,1,6.82,0.00,0.00,0.00,2.39,6.82
+MasterCard,26,482.21,0.00,0.00,0.00,61.45,482.21
+Visa,108,2231.62,0.00,0.00,56.14,245.58,2175.48
+House Account,2.0,32.10,0.00,-,0.00,0.0,32.10
+SCAD,1.0,6.82,0.00,0.00,0.00,0.00,6.82
+Custom Payment,0,0.00,0.00,0.00,0.00,0.00,0.00
+Grand Total,178,3537.24,0.00,0.0,56.14,339.39,3481.10
+ 
+CASH SUMMARY,Amount
+Starting cash,400.00
+Cash Payments,551.37
+Pay Ins,28.55
+Pay Outs,0.00
+Safe Drops,0.00
+Expected Cash (till count),979.92
+Actual Cash (final till count),976.40
+Under,-3.52
+Expected total cash to business,579.92
+Actual total cash to business,576.40
+ 
+SERVICE PERFORMANCE,Amount
+Total Transactions,199.0
+Average Check,16.48
+ 
+LABOR DEPARTMENT,Hours,Wages
+Zunzis Takeout,100.97,637.26
+ 
+DISCOUNT REASON,Qty,Total
+"""thanksmom"" - 14% Off -  May Web Promo (Exp. 5/31/17)",13.0,15.09
+1st Customer,3.0,16.14
+26th Customer,2.0,14.40
+50% Emp. Meal,3.0,13.08
+:) HaPpY hOuR :),3.0,6.75
+Budget Adj.,1.0,2.09
+Comp/Mistakes,2.0,14.24
+Employee Meal,25.0,193.37
+Last Customer,2.0,13.90
+Manager PR,3.0,22.19
+Military/Law Enf.,30.0,24.42
+Pedicab,11.0,5.01
+ZIP Card,1.0,14.74
+Zip Card,5.0,35.04
+TOTAL,,383.98
+ 
+"VOIDS, RETURNS AND COMPS REASON",Qty,Total
+Customer called and changed mind. Refunded it before making any,3,37.85
+OVER RING,2,19.55
